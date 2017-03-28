@@ -3,11 +3,12 @@
 }
 body{
     /* 全体の横幅 */
+    
     width: 320px;
     /* 全体を中央寄せ */
     margin: auto;
     /* 全体の余白 */
-    padding: 10px;
+    padding: 250px 1px;
     background: #81C7D4;
     
 }
@@ -55,6 +56,7 @@ input{
 
 /* プラスボタン */
 input[value="+"]{
+    
     
     /* 文字の色 */
     color: #f9f9f9;
