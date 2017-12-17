@@ -10,7 +10,7 @@ before do
 end
 
 get '/' do
-  'こんにちは'
+  erb :index
 end
 
 get '/count' do
